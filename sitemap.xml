@@ -8,8 +8,29 @@
   
     
       <url>
-            <loc>https://xpnhi.github.io/public/</loc>
+            <loc>https://xpnhi.github.io/public/posts/</loc>
+            <lastmod>2026-04-24T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://xpnhi.github.io/public/</loc>
+            <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://xpnhi.github.io/public/posts/hugo-favicon/</loc>
+            <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+          </url>
+    
+  
     
   
 </urlset>
